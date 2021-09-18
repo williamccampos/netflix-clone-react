@@ -1,5 +1,5 @@
 # Netflix Clone
-*Criado em React, CSS e JavaScript
+*Criado em React, CSS e JavaScript*
 
 
 # Como usar

@@ -11,7 +11,7 @@ export default ({black}) => {
             </div>
             <div className="header--user">
                 <a href="/">
-                    <img src="https://pbs.twimg.com/profile_images/1240119990411550720/hBEe3tdn_400x400.png" alt="Usuario"></img>
+                    <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/1bdc9a33850498.56ba69ac2ba5b.png" alt="Usuario"></img>
                 </a>
             </div>
         </header>
